@@ -1,0 +1,10 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+#camera {
+    border: 2cm;
+    border-color: black;
+    height: 250px;
+    width: 250px;
+}
